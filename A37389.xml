@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity and honours of the skinner and furrier crafts arms, skinners, ermine on a chief gu. 3 imperial crowns, or furriers, parted per fess. gu. and ar. a pale countercharged of the same on the 1st, 3 goats of the 2d / by P.D.</title>
+            <author>P. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37389</idno>
+            <idno type="STC">Wing D74</idno>
+            <idno type="STC">ESTC R36065</idno>
+            <idno type="EEBO-CITATION">15599112</idno>
+            <idno type="OCLC">ocm 15599112</idno>
+            <idno type="VID">104036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity and honours of the skinner and furrier crafts arms, skinners, ermine on a chief gu. 3 imperial crowns, or furriers, parted per fess. gu. and ar. a pale countercharged of the same on the 1st, 3 goats of the 2d / by P.D.</title>
+                  <author>P. D.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fur trade --  England --  Poetry.</term>
+               <term>Leather workers --  England --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:104036:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <head>THE ANTIQUITY AND HONOURS Of the Skinner and Furrier Crafts.</head>
+            <head type="sub">
+               <list>
+                  <head>ARMS.</head>
+                  <item>
+                     <label>SKINNERS.</label> 
+                     <hi>Ermine</hi> on a Chief <hi>Gu.</hi> 3 Imperial Crowns, <hi>Or.</hi>
+                  </item>
+                  <item>
+                     <label>FURRIERS.</label> 
+                     <hi>Parted per Feſs.</hi> Gu. and Ar. a Pale counter<g ref="char:EOLhyphen"/>charged of the ſame on the 1ſt, 3 Goats of the 2d.</item>
+               </list>
+            </head>
+            <byline>By <hi>P. D.</hi>
+            </byline>
+            <lg>
+               <l>SKinners, your Craft, and Furriers (of all)</l>
+               <l>The firſt can claim, and beſt Originall,</l>
+               <l>To do you<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Juſtice, ſurely as your Due,</l>
+               <l>Boaſted Precedency belongs to you.</l>
+               <l>For as you'r firſt, in the Records of Time,</l>
+               <l>So your Originall is moſt ſublime.</l>
+               <l>Moſt of our Arts, on Humane Authors Land;</l>
+               <l>Yours came at firſt from the Almighty's Hand.</l>
+               <l>Heaven's Lord, when our firſt Parents naked were,</l>
+               <l>In Coats of Skins, aray'd the Royal Pair.</l>
+               <l>And that they were (it may be juſtly thought)</l>
+               <l>Adapted well, and exquiſitly wrought.</l>
+               <l>
+                  <hi>Adam</hi> the New made Monarch of the Globe,</l>
+               <l>Appear'd majeſtick, in th' Impirial Robe,</l>
+               <l>And <hi>Eve</hi> the Empreſs Sharer of his Crown,</l>
+               <l>O! Heav'ns, how Charming, in her Ermine Gown.</l>
+               <l>
+                  <pb n="2" facs="tcp:104036:2"/>
+                  <!-- PDF PAGE 27 -->
+And ſure, the Habit Heaven hath pointed out,</l>
+               <l>Moſt comely, and Commodious is no doubt.</l>
+               <l>Thus were, the antient Patriarchs aray'd,</l>
+               <l>Till Pride increſs'd, and Piety decay'd:</l>
+               <l>In Woods they hunted for the Prey, and then,</l>
+               <l>You cloathed them, in Trophies of the Slain.</l>
+            </lg>
+            <lg>
+               <l>By Help of you, <hi>Rebekah</hi>'s Wile took Place,</l>
+               <l>Transfer'd the Bleſſing, unto <hi>Jacob</hi>'s Race:</l>
+               <l>This noble Inſtance, evidently proves,</l>
+               <l>To all, the antient Uſe of Furrs and Gloves.</l>
+            </lg>
+            <lg>
+               <l>The Tabernacle, in <hi>Arabia</hi>'s Wild,</l>
+               <l>Erected, and with Divine Preſence fill'd,</l>
+               <l>At the Divine Command, you cover'd o'er</l>
+               <l>With Ramſkins dy'd, and thoſe the Badger bore;</l>
+               <l>The Saints, of whom the World unworthy was,</l>
+               <l>Cloathed by you, wand'ring about did paſs.</l>
+               <l>And to advance, your Dignity the more,</l>
+               <l>A Leather'n Girdle, <hi>John</hi> the Baptiſt wore.</l>
+               <l>Th' Apoſtle <hi>Paul,</hi> preſerv'd with ſpecial Care,</l>
+               <l>His Writs on Parchment, which you did prepare.</l>
+               <l>Thus Men by Manufacture of your Hands,</l>
+               <l>The Rights maintain, and Titles of their Lands.</l>
+            </lg>
+            <lg>
+               <l>In humane Hiſtr'y too, you take a Place,</l>
+               <l>You dreſs'd the Lyon's Skin, for <hi>Hercules,</hi>
+               </l>
+               <lg>
+                  <l>To Romans you the leather'n Garter gave,</l>
+                  <l>To ſignalize, their Champions great and brve,</l>
+                  <l>Whence Brittons too, that noble Order have.</l>
+               </lg>
+               <l>Kings Crowns you furr, with theſe their Robes adorn</l>
+               <l>Thence Ermine's in Armorial Enſigns born.</l>
+            </lg>
+            <lg>
+               <l>You join to fit the Soldier for the Field,</l>
+               <l>The Furrier Lines the Head-peice and the Shield:</l>
+               <l>The Skinner gives Veſt, Breeches, Belt and Bend,</l>
+               <l>Of ſturdy Buff, and Gloves to fence the Hand.</l>
+               <l>Much from your artful Hands aſſiſted come,</l>
+               <l>The chearing Bag-pipe, and the rouſing Drum.</l>
+               <l>
+                  <pb n="3" facs="tcp:104036:2"/>
+                  <!-- PDF PAGE 27 -->
+You both agree, to Grace the fairer Sex,</l>
+               <l>The Furrier adorns their Ivory Necks.</l>
+               <l>The Skinner gives the well form'd Glove &amp; thin,</l>
+               <l>Soft like themſelves, white as their Native Skin,</l>
+               <l>And Gloves by Simpathy they underſtand,</l>
+               <l>Improve the pleaſant Softneſs of the Hand,</l>
+               <l>While full ſome Silk, an Excrement of Worms,</l>
+               <l>Deſtroy's it's Beauties, and devours it's Charms.</l>
+               <l>Strange any ſhould, buy dear a forraign Curſe,</l>
+               <l>Pernicious to the Perſon and the Purſe.</l>
+               <l>The pleſant Product of our Iſle, deſpiſe,</l>
+               <l>Beſtow'd by the Creator, good and wiſe.</l>
+            </lg>
+            <lg>
+               <l>You ſheath the aged chilly Hand in Buff,</l>
+               <l>Or kindly cover, with the warmer Muff,</l>
+               <l>Of northern Climes, you cloath th' Inhabitants,</l>
+               <l>Where a Perpetuall pinching Winter haunts,</l>
+               <l>The friendly Garbe, eluds the Snow and Haill,</l>
+               <l>And blaſts from Urſa's elevated Tail.</l>
+               <l>Thus they, when once your Storm-proof armor's on</l>
+               <l>The Froſt defy, forget a frigid Zone,</l>
+               <l>Fenc'd by your Art fancy the Climate Hoſe,</l>
+               <l>Nor know the coldrife Thing, a Threed-bair Coat.</l>
+            </lg>
+            <lg>
+               <l>The Skinner Craft, our <hi>Caledon</hi> can boaſt,</l>
+               <l>Comes not, improven from a forraign Coaſt,</l>
+               <l>All bounteous Heaven, here beſtous on you,</l>
+               <l>The beſt Materials, and genius too.</l>
+               <l>Thus of your Art, it's hard to tell the Powers,</l>
+               <l>All other Craftsmen, Badges bear of yours.</l>
+               <l>And in their Airt, it's Evident how far</l>
+               <l>To moſt Mechanicks, you aſſiſting are.</l>
+            </lg>
+            <lg>
+               <l>Printers aſſiſted by the Pellet, make</l>
+               <l>Their Ink expreſſive, and the Type to ſpeak.</l>
+               <lg>
+                  <l>You to the Joyner, give cementing Glue,</l>
+                  <l>Y' aſſiſt the Painter, and Book-Binder too,</l>
+                  <l>The Cordiner, and Saidler deal with you.</l>
+               </lg>
+               <l>
+                  <pb n="4" facs="tcp:104036:3"/>
+                  <!-- PDF PAGE 28 -->
+So from your Art, vaſt Quantities ariſe,</l>
+               <l>Of Skins for tranſport, Wool for Factories,</l>
+               <l>And thus it's evidently underſtood,</l>
+               <l>How greatly you advance the Common Good,</l>
+               <l>And what, a mighty Branch of Revenew,</l>
+               <l>Doth to the Prince from Skinners Craft Acrew.</l>
+               <l>Sure all Incroachments on you to prevent,</l>
+               <l>Were greateſt Wiſdom in a Government.</l>
+            </lg>
+            <lg>
+               <l>For num'rous Uſes, thus you both concur,</l>
+               <l>To dreſs white Leather, and the dounny Furr,</l>
+               <l>And by an almoſt ſupernat'ral Art,</l>
+               <l>You ſoftneſs to the parched Hide impart.</l>
+               <l>Both Leather dreſs, and yet the Diff'rence fair,</l>
+               <l>The Skinner white, the Furrier with the Hair.</l>
+            </lg>
+            <lg>
+               <l>What Shame it is, to ſee ſome City Fops,</l>
+               <l>Immur'd in Muſlin to the Finger Tops.</l>
+               <l>Nor have the Boldneſs, to pull on a Glove,</l>
+               <l>Nor once their uſeleſs Hands to Action move,</l>
+               <l>Nor dare their Ruffle fetter'd Fiſts extend,</l>
+               <l>Leaſt they the Well ſet Camrick ſhould offend,</l>
+               <l>As if their Hands, only for Ornament,</l>
+               <l>And not for Exerciſe, to them were lent.</l>
+               <l>Sometimes 'tis true, they'l venture on a wring,</l>
+               <l>T' expell the Cold, or ſhow a Diamond Ring.</l>
+               <l>But ev'ry brighter Soul that Action loves,</l>
+               <l>And knows the Uſe of Hands, knows that of Gloves.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104036:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </body>
+   </text>
+</TEI>
